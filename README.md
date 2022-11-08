@@ -10,7 +10,7 @@ This is the final project for CS-UY 3083 (Introduction to Databases). We have to
 Please refer to `docs/` for information on a brief discussion of each file and an explanation for each queries. 
 
 ## Author
-- Siddharth [Siddharth](https://github.com/MoRI402) 
+- Siddharth [Profile](https://github.com/MoRI402) 
 
 ## License
 Usage is provided under the [MIT License](http://opensource.org/licenses/mit-license.php). See LICENSE for the full details.
